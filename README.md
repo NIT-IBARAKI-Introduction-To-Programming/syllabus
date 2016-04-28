@@ -16,4 +16,4 @@ C言語の演習を通じ、プログラムが動作する仕組みを学びま�
 Cloud9というサービスを使うと簡単にC言語の開発環境を構築することが出来ます。
 
 * [準備編](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/prep_cloud9.pdf)
-* [プログラミング編](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/prop_cloud9.pdf) 
+* [プログラミング編](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/prog_cloud9.pdf) 
