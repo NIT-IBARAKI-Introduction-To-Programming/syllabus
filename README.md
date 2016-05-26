@@ -12,6 +12,7 @@ C言語の演習を通じ、プログラムが動作する仕組みを学びま�
 * 第4週（４月28日）：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week4.pdf)
 * 第5週(5月12日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week5.pdf))
 * 第6週(5月19日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week6.pdf))
+* 第7週(5月26日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week7.pdf))
 
 ## 自宅でC言語プログラミングの練習をしたい人
 
