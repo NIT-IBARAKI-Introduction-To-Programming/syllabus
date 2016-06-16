@@ -14,6 +14,10 @@ C言語の演習を通じ、プログラムが動作する仕組みを学びま�
 * 第6週(5月19日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week6.pdf))
 * 第7週(5月26日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week7.pdf))
 
+* 前期中間試験
+
+* 第9週(6月16日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week9.pdf))
+
 ## 自宅でC言語プログラミングの練習をしたい人
 
 Cloud9というサービスを使うと簡単にC言語の開発環境を構築することが出来ます。
