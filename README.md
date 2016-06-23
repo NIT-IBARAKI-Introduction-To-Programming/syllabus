@@ -17,6 +17,7 @@ C言語の演習を通じ、プログラムが動作する仕組みを学びま�
 * 前期中間試験
 
 * 第9週(6月16日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week9.pdf))
+* 第10週(6月23日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week10.pdf))
 
 ## 自宅でC言語プログラミングの練習をしたい人
 
