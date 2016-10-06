@@ -26,6 +26,7 @@ C言語の演習を通じ、プログラムが動作する仕組みを学びま�
 * 夏休み
 
 * 第1週(9月29日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week1_kouki.pdf))
+* 第2週(10月6日)：[講義資料](https://github.com/NIT-IBARAKI-Introduction-To-Programming/syllabus/raw/master/lecture_notes/week2_kouki.pdf))
 
 
 ## 自宅でC言語プログラミングの練習をしたい人
