@@ -9,14 +9,16 @@ int main(){
     printf("numbers[%d]: ", i); scanf("%d", &numbers[i]);
   }
   // 配列をソート
-  for(i=0; i<N; i++) {
-    for(j=i; j<N; j++) {
-      if(numbers[i]<numbers[j]) {
-        tmp = numbers[i];
-        numbers[i] = numbers[j];
-        numbers[j] = tmp;
+  for (i = N-1; i >= 0; i--) {
+    // ２要素を繰り返し比較する
+    for (j = 0; j < i; j++) {
+      /* 後ろの要素の方が大きければ交換 */
+      if (numbers[j] < numbers[j+1]) {
+        tmp = numbers[j];       
+        numbers[j] = numbers[j+1];
+        numbers[j+1]= tmp;
       }
-    }
+    } 
   }
   // 配列の中身を表示
   printf("並べ替え後: ");
@@ -25,4 +27,3 @@ int main(){
   }
   return 0;
 }
-
